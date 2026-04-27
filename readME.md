@@ -12,6 +12,8 @@
     - Reconnaissances du Visage detecter (OpenFace) ⏳
     - Reconnaissance des Emotions (FER) ⏳
 
+# Setup 
+  - utilisation d'un environnement venv (optionnel)
 # Bibliothèques Utilisées
   - numpy
   - ort
